@@ -46,7 +46,7 @@ root/
 Download or clone the project.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Balasrivatsa9102005/NeoTheme-Web-extension-for-chrome.git
 ```
 
 or simply place all files inside a folder.
